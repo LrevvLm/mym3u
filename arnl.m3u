@@ -374,9 +374,6 @@ https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.
 #EXTINF:-1 tvg-id="NourElSham.sy" tvg-logo="https://i.imgur.com/Dy2Eo33.png" group-title="Religious",Nour El-Sham
 http://vod.ortas.sy:1935/oLive/nour05042022/playlist.m3u8
 
-#EXTINF:-1 tvg-id="OneTVLebanon.lb" tvg-logo="https://i.imgur.com/O4DuR9G.png" group-title="Undefined",One MTV Lebanon
-https://live.3cd.io/v1/broadcast/one/playlist.m3u8
-
 #EXTINF:-1 tvg-id="OTV.lb" tvg-logo="https://i.imgur.com/toxFMeY.png" group-title="General",OTV
 http://62.182.82.104/OTV/index.m3u8?token=test
 
