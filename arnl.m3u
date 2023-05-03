@@ -291,7 +291,7 @@ https://edge.taghtia.com/sa/17.m3u8
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8
 
 #EXTINF:-1 tvg-id="LanaTVPlus.lb" tvg-logo="https://i.imgur.com/Q9wNCFO.png" group-title="General",Lana TV Plus
-https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc2/m3u8/sdi2-720p.m3u8
+https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/sdi2-720p.m3u8
 
 #EXTINF:-1 tvg-id="LBC.sa" tvg-logo="https://i.imgur.com/whyZXzW.png" group-title="General",LBC
 https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/playlist.m3u8
@@ -311,9 +311,6 @@ https://ythls.onrender.com/channel/UC1TelTm8bbY2jw0guInSvBA.m3u8
 #EXTINF:-1 tvg-id="MBC1.ae" tvg-logo="https://i.imgur.com/ePBvFC8.png" group-title="General",MBC 1
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 
-#EXTINF:-1 tvg-id="MBC2.ae" tvg-logo="https://i.imgur.com/EVTHfH2.png" group-title="Movies",MBC 2
-http://136.243.102.250:8080/live/teleg2/2824745242/1922.ts
-
 #EXTINF:-1 tvg-id="MBC3.ae" tvg-logo="https://i.imgur.com/UgDTRNv.png" group-title="Kids",MBC 3
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
 
@@ -322,9 +319,6 @@ https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index
 
 #EXTINF:-1 tvg-id="MBC5.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/5_MBC.webp/512px-5_MBC.webp.png" group-title="General",MBC 5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
-
-#EXTINF:-1 tvg-id="MBCAction.ae" tvg-logo="https://i.imgur.com/8p2HNi0.png" group-title="Movies",MBC Action
-https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
 
 #EXTINF:-1 tvg-id="MBCBollywood.ae" tvg-logo="https://i.imgur.com/tYOxhA9.png" group-title="General",MBC Bollywood
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
@@ -353,9 +347,6 @@ https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NabaaTV.lb" tvg-logo="https://i.imgur.com/p8eRgSs.png" group-title="News",Nabaa TV
 http://31.14.40.237:1935/live/Nabaa/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NablusTV.ps" tvg-logo="https://i.imgur.com/GoLhaDK.png" group-title="Undefined",Nablus TV
-http://htvmada.mada.ps:8888/nabluslive/index.m3u8
-
 #EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae" tvg-logo="https://i.imgur.com/fNA00VF.png" group-title="Documentary",National Geographic Abu Dhabi
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 
@@ -367,9 +358,6 @@ https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.
 
 #EXTINF:-1 tvg-id="NourElSham.sy" tvg-logo="https://i.imgur.com/Dy2Eo33.png" group-title="Religious",Nour El-Sham
 http://vod.ortas.sy:1935/oLive/nour05042022/playlist.m3u8
-
-#EXTINF:-1 tvg-id="OTV.lb" tvg-logo="https://i.imgur.com/toxFMeY.png" group-title="General",OTV
-http://62.182.82.104/OTV/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="PalestineMubasher.ps" tvg-logo="https://i.imgur.com/68llVTZ.png" group-title="General",Palestine Mubasher
 http://htvpalsat.mada.ps:8888/PBCLive/index.m3u8
@@ -516,6 +504,9 @@ http://ott-cdn.ucom.am/s65/index.m3u8
 #EXTINF:-1 tvg-id="DenHaagTV.nl" tvg-logo="https://i.imgur.com/gkzlRED.jpg" group-title="Undefined",Den Haag TV
 http://wowza5.video-streams.nl:1935/denhaag/denhaag/playlist.m3u8
 
+#EXTINF:-1 tvg-id="NH.nl" tvg-logo="https://i.imgur.com/SPkK4md.png" group-title="News",NH Niews
+https://takeoff.jetstre.am/?account=nhnieuws&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cuwyKuU.png" group-title="News",Euronews English
 https://rakuten-euronews-1-nl.samsung.wurl.tv/playlist.m3u8
 
@@ -525,14 +516,8 @@ https://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
 #EXTINF:-1 tvg-id="TVLimburg.be" tvg-logo="https://i.imgur.com/UMnXonD.png" group-title="",TV Limburg BE
 https://live.zendzend.com/streams/29375_395474/playlist.m3u8
 
-#EXTINF:-1 tvg-id="InWild.nl" tvg-logo="https://i.imgur.com/48atMgj.png" group-title="Undefined",InWild
-https://inwild-samsung-uk.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://mojitv.nl/wp-content/uploads/2020/11/MojiTV-logo.png" group-title="Kids",Mojitv
 https://odmedia-mojitv-1-nl.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NH.nl" tvg-logo="https://i.imgur.com/SPkK4md.png" group-title="News",NH Niews
-https://takeoff.jetstre.am/?account=nhnieuws&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7JEbhob.png" group-title="Undefined",Rakuten Action
 https://rakuten-action-8-nl.samsung.wurl.tv/playlist.m3u8
@@ -555,14 +540,17 @@ https://dy7fxpkq4ggk8.cloudfront.net/nlpo/clr-nlpo/rtv1/index.m3u8
 #EXTINF:-1 tvg-id="RTVUtrecht.nl" tvg-logo="https://i.imgur.com/nrvs30l.png" group-title="Undefined",RTV Utrecht
 https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/rtvutrecht/index.m3u8
 
+#EXTINF:-1 tvg-id="UStad.nl" tvg-logo="https://i.imgur.com/9F8ieEz.png" group-title="Undefined",UStad
+https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/ustad/index.m3u8
+
+#EXTINF:-1 tvg-id="InWild.nl" tvg-logo="https://i.imgur.com/48atMgj.png" group-title="Undefined",InWild
+https://inwild-samsung-uk.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://user-assets-thetadrop.imgix.net/user_raikf4wbntmp5aviwx90khqt392/TPC_LOGO_COLOR_RGB_WHITE.png" group-title="Undefined",The Pet Collective
 https://the-pet-collective-international-nl.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://celebritiesmanagement.b-cdn.net//wp-content/uploads/2017/05/travelxp-logo.png" group-title="Undefined",Travelxp
 https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="UStad.nl" tvg-logo="https://i.imgur.com/9F8ieEz.png" group-title="Undefined",UStad
-https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/ustad/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://xplore-tv.de/wp-content/uploads/2019/05/cropped-logo.png" group-title="Undefined",Xplore
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
