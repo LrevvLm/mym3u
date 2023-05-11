@@ -263,9 +263,6 @@ https://jmc-live.ercdn.net/hawastvhd/hawastvhd.m3u8
 #EXTINF:-1 tvg-id="IqraaArabic.sa" tvg-logo="https://i.imgur.com/HPVsIa4.png" group-title="Religious",Iqraa
 https://jmc-live.ercdn.net/iqraa/iqraa.m3u8
 
-#EXTINF:-1 tvg-id="IsmaoonaTV.jo" tvg-logo="https://i.imgur.com/HZuLTz8.png" group-title="General",Ismaoona TV
-http://82.212.74.4:8000/live/2105.m3u8
-
 #EXTINF:-1 tvg-id="JamahiriyaTV.ly" tvg-logo="https://i.imgur.com/BIuUtX7.png" group-title="News",Jamahiria TV
 https://master.starmena-cloud.com/hls/jam.m3u8
 
@@ -290,9 +287,6 @@ https://edge.taghtia.com/sa/17.m3u8
 #EXTINF:-1 tvg-id="LanaTV.lb" tvg-logo="https://i.imgur.com/xPoycVY.png" group-title="General",Lana TV
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8
 
-#EXTINF:-1 tvg-id="LanaTVPlus.lb" tvg-logo="https://i.imgur.com/Q9wNCFO.png" group-title="General",Lana TV Plus
-https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc2/m3u8/sdi2-720p.m3u8
-
 #EXTINF:-1 tvg-id="LBC.sa" tvg-logo="https://i.imgur.com/whyZXzW.png" group-title="General",LBC
 https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
@@ -311,9 +305,6 @@ https://ythls.onrender.com/channel/UC1TelTm8bbY2jw0guInSvBA.m3u8
 #EXTINF:-1 tvg-id="MBC1.ae" tvg-logo="https://i.imgur.com/ePBvFC8.png" group-title="General",MBC 1
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 
-#EXTINF:-1 tvg-id="MBC2.ae" tvg-logo="https://i.imgur.com/EVTHfH2.png" group-title="Movies",MBC 2
-http://136.243.102.250:8080/live/teleg2/2824745242/1922.ts
-
 #EXTINF:-1 tvg-id="MBC3.ae" tvg-logo="https://i.imgur.com/UgDTRNv.png" group-title="Kids",MBC 3
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
 
@@ -322,9 +313,6 @@ https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index
 
 #EXTINF:-1 tvg-id="MBC5.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/5_MBC.webp/512px-5_MBC.webp.png" group-title="General",MBC 5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
-
-#EXTINF:-1 tvg-id="MBCAction.ae" tvg-logo="https://i.imgur.com/8p2HNi0.png" group-title="Movies",MBC Action
-https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
 
 #EXTINF:-1 tvg-id="MBCBollywood.ae" tvg-logo="https://i.imgur.com/tYOxhA9.png" group-title="General",MBC Bollywood
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
